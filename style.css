@@ -1,0 +1,569 @@
+body{
+      background: url(фон.jpg) no-repeat center center fixed;
+      background-size: cover;
+    }
+	 
+ul.css-menu-1 {                        
+	list-style: none;
+	margin-left: 100;
+    margin-right: 350;
+    width: 100em;
+	position: zenter;
+	z-index: 1;
+	}
+	
+
+ul.css-menu-1 li {
+	display: inline;
+		}
+		
+	
+ul.css-menu-1 li a {
+	font-family: Tahoma, Geneva, sans-serif; 
+	text-decoration: none;
+	font-weight: bold;
+	color: #008000 ; 
+	padding: 6px 10px 6px 10px;
+	font-size: 30;
+
+	}
+	
+ul.css-menu-1 li a:hover {
+	padding: 6px 10px 6px 10px;
+	font-weight: bold;
+	background: #ccc;
+	color: #FF0000 ; 
+	opacity: 1;
+	border-radius: 1em/1em;
+	}
+	
+
+	 
+.block1{
+	 width: 1300;
+	 height: 6700;
+	 background: #ccc;
+	 padding: 5;
+	 border: solid 1px black;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 120;
+	 }
+	
+	 
+.block2{	 
+	 width: 1300;
+	 height: 120;
+	 background: #ccc;
+	 padding: 5;
+	 border: solid 1px black;
+	 position: absolute;
+	 opacity: 0.7;
+	 margin: 100;
+	 top: -50;
+	 border-radius: 1em/1em;
+	 }	
+	
+		.block3{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 390;
+	 left: -190;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+			 	.block4{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+				 	.block5{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+				.block6{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 400;
+	 left: -330;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+			 	.block7{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	
+			.block8{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: -200;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 		 	.block9{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 			.block10{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: -100;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	 	.block11{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: -60;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 	  	.block12{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 	.block13{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 50;
+	 left: 200;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 	 	.block14{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 360;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	 		 	.block15{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: -10;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 
+	 	.block16{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 100;
+	 left: 200;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 
+	 	.block17{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 400;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	.block18{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 40;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 	 	.block188{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 100;
+	 left: 200;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 
+	 	 	.block19{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 400;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	.block20{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 	.block21{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 90;
+	 left: 200;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 
+	 	 	 	.block22{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 390;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	.block23{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 
+	 	 	 	 	.block24{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 300;
+	 top: 400;
+	 left: -320;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	 
+	 
+	 	.block25{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 0;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+	 	 	.block26{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 120;
+	 left: 200;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 
+		 	.block27{
+	 width: 1250;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 500;
+	 left: -80;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 	 		.block28{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 50;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+			 	.block29{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+		 		.block30{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 800;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	
+		 	.block31{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 	 		 		.block32{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 800;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+			 	.block33{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 	 	 		 		.block34{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 800;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	
+		 	.block35{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 		.block36{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 800;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+			 	.block37{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 	 	.block38{
+     width: 1300;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 800;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 35;
+	 }
+	
+		 	.block39{
+	 width: 1250;
+	 height: 250;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 600;
+	 left: -100;
+	 z-index: 1;
+	 font-size: 25;
+	 }
+	 
+
+	.block88{
+	 width: 600;
+	 height: 350;
+	 padding: 5;
+	 position: absolute;
+	 opacity: 1;
+	 margin: 100;
+	 top: 900;
+	 left: 300;
+	 border-radius: 1em/1em;
+	 z-index: 1;
+	 } 
+	 
+	 
+	 
